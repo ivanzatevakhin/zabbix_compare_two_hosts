@@ -107,3 +107,4 @@ if spisok_1 == spisok_2:
     print ("Браток, lists are THE SAME") 
 else: 
     print ("Браток, lists are NOT THE SAME")
+    print("test")
